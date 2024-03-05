@@ -1,0 +1,11 @@
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.deps.json
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Data.dll
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+C:\curso_cleanarqvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Data.dll

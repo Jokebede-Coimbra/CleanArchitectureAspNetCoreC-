@@ -1,0 +1,11 @@
+C:\curso_cleanarqvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.deps.json
+C:\curso_cleanarqvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\curso_cleanarqvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\refint\CleanArchMvc.Domain.dll
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\curso_cleanarqvc\CleanArchMvc.Domain\obj\Debug\net8.0\ref\CleanArchMvc.Domain.dll
