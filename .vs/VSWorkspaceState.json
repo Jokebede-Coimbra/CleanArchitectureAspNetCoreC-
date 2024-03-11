@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CleanArchMvc",
-    "\\CleanArchMvc2",
-    "\\curso_cleanarqvc"
+    "\\CleanArchMvc\\CleanArchMvc.Domain",
+    "\\CleanArchMvc\\CleanArchMvc.Domain\\Entities",
+    "\\CleanArchMvc\\CleanArchMvc.Domain\\Validation"
   ],
-  "SelectedNode": "\\CleanArchMvc2",
+  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
   "PreviewInSolutionExplorer": false
 }
