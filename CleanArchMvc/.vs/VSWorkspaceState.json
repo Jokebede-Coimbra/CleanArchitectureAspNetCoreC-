@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CleanArchMvc.Domain",
-    "\\CleanArchMvc.Domain\\Entities"
+    "\\CleanArchMvc.Domain\\Entities",
+    "\\CleanArchMvc.Domain\\Interfaces"
   ],
-  "SelectedNode": "\\CleanArchMvc.Domain\\Entities\\Entity.cs",
+  "SelectedNode": "\\CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
   "PreviewInSolutionExplorer": false
 }
