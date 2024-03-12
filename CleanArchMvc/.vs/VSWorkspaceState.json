@@ -4,6 +4,6 @@
     "\\CleanArchMvc.Domain",
     "\\CleanArchMvc.Domain\\Entities"
   ],
-  "SelectedNode": "\\CleanArchMvc.Domain\\Entities\\Category.cs",
+  "SelectedNode": "\\CleanArchMvc.Domain\\Entities\\Entity.cs",
   "PreviewInSolutionExplorer": false
 }

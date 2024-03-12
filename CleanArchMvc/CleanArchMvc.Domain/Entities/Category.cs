@@ -1,8 +1,7 @@
 ﻿using System;
 
-public sealed class Category
+public sealed class Category : Entity
 {
-    public int Id { get; private set; }
     public string Name { get; private set; }
 
     public Category(string name)
@@ -17,6 +16,11 @@ public sealed class Category
         Id = id;
         ValidateDomain(name);
 
+    }
+
+    public void Update(string name)
+    {
+        ValidateDomain(name);
     }
 
     public ICollection<Product> Products { get; set; }
