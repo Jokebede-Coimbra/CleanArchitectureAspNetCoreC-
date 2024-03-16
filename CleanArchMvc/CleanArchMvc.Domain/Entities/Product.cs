@@ -47,7 +47,7 @@ public sealed class Product : Entity
             "Invalid price stock");
 
         DomainExceptionValidation.When(image.Length > 250,
-            "Invalid image name,  too long, maximum 250 characteres");
+            "Invalid image name, too long, maximum 250 characters");
 
         Name = name;
         Description = description;

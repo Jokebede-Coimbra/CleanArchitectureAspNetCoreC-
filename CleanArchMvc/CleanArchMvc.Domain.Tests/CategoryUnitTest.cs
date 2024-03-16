@@ -1,16 +1,11 @@
 using FluentAssertions;
 using System;
 
-public class CategoryUnitTest1
+public class CategoryUnitTest
 {
     [Fact(DisplayName = "Create Category With Valid State")]
     public void CreateCategory_WithValidParameters_ResultObjectValidState()
     {
-        /*Category action = () => new Category(1, "Category Name ");
-        action.Should()
-             .NotThrow<DomainExceptionValidation>();
-        Assert.Equal(action.Name, "Category Name ");*/
-
         Action action = () => new Category(1, "Category Name ");
         action.Should()
              .NotThrow<DomainExceptionValidation>();
