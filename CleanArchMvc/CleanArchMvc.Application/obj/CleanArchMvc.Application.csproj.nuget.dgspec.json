@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso_cleanarqvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {}
+    "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {}
   },
   "projects": {
-    "C:\\curso_cleanarqvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+    "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_cleanarqvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectUniqueName": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "C:\\curso_cleanarqvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "projectPath": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "packagesPath": "C:\\Users\\jkbd_\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_cleanarqvc\\CleanArchMvc.Application\\obj\\",
+        "outputPath": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jkbd_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\curso_cleanarqvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-                "projectPath": "C:\\curso_cleanarqvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\curso_cleanarqvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+    "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_cleanarqvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "C:\\curso_cleanarqvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "projectPath": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "packagesPath": "C:\\Users\\jkbd_\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_cleanarqvc\\CleanArchMvc.Domain\\obj\\",
+        "outputPath": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jkbd_\\AppData\\Roaming\\NuGet\\NuGet.Config",

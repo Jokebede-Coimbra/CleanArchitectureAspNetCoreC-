@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXIFaPYNYoKEt0Jr6t3ZjuvgKCp18+Wxw7JqRREIi0F0fwMZXQAkh6KSBl2qzaqtk7bmJHTTBLrWm4U9JVlp/A==",
+  "dgSpecHash": "WDv1f6VTxrBv+ta7gMcaK/6VpHMH5ig+LmB2Un1WujB5BG3AGR8BKZeIUzss7bV1/4on1U/qR5Smn4DsDwbZQA==",
   "success": true,
-  "projectFilePath": "C:\\curso_cleanarqvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "D:\\C#-CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

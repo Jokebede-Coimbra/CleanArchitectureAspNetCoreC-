@@ -15,7 +15,7 @@ public sealed class Product : Entity
 
     public Product(int id, string name, string description, decimal price, int stock, string image)
     {
-        DomainExceptionCalidation.When(id < 0, "Invalid Id value.");
+        DomainExceptionValidation.When(id < 0, "Invalid Id value.");
         Id = id;
         ValidateDomain(name, description, price, stock, image);
     }
@@ -28,25 +28,25 @@ public sealed class Product : Entity
 
     private void ValidateDomain(string name, string description, decimal price, int stock, string image)
     {
-        DomainExceptionCalidation.When(string.IsNullOrEmpty(name),
+        DomainExceptionValidation.When(string.IsNullOrEmpty(name),
             "Invalid name. Name is required");
 
-        DomainExceptionCalidation.When(name.Lenght < 3),
+        DomainExceptionValidation.When(name.Length < 3,
             "Invalid name. too short, mininum 3 characteres");
 
-        DomainExceptionCalidation.When(string.IsNullOrEmpty(description),
+        DomainExceptionValidation.When(string.IsNullOrEmpty(description),
             "Invalid name. Description is required");
 
-        DomainExceptionCalidation.When(description.Length < 5,
+        DomainExceptionValidation.When(description.Length < 5,
             "Invalid description. too short, mininum 5 characteres");
 
-        DomainExceptionCalidation.When(price < 0,
+        DomainExceptionValidation.When(price < 0,
             "Invalid price value");
 
-        DomainExceptionCalidation.When(stock < 0,
+        DomainExceptionValidation.When(stock < 0,
             "Invalid price stock");
 
-        DomainExceptionCalidation.When(image.Length > 250,
+        DomainExceptionValidation.When(image.Length > 250,
             "Invalid image name,  too long, maximum 250 characteres");
 
         Name = name;

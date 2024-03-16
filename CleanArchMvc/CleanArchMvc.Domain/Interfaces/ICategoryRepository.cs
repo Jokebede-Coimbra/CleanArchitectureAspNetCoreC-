@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
-using CleanArchMvc.Domain.Entities;
+
 
 public interface ICategoryRepository
 {
@@ -8,8 +8,8 @@ public interface ICategoryRepository
 
     Task<Category> GetById(int? id);
 
-    Task<Category> Create(Categoty categoty);
-    Task<Category> Update(Categoty categoty);
-    Task<Category> Remove(Categoty categoty);
+    Task<Category> Create(Category category);
+    Task<Category> Update(Category category);
+    Task<Category> Remove(Category category);
    
 }
